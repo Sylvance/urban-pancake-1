@@ -28,5 +28,14 @@ Install node modules;
 Start react server;
 `npm start`
 
+## Deployment
+### Socket.io Server
+I used heroku, you can find it here;
+[https://urb1.herokuapp.com/](https://urb1.herokuapp.com/)
+
+### React client
+I used Now-cli, you can find the demo here;
+[https://socket-io-client-vakfwgtooj.now.sh/](https://socket-io-client-vakfwgtooj.now.sh/)
+
 ## Author
 -> Sylvance Kerandi
