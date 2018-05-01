@@ -26,7 +26,7 @@ class App extends Component {
         </header>
         {response
           ? <p className="App-intro">
-              To get started, edit <code>src/App.js</code> and save to reload.
+              The temperature in Andela is: <code>{response} °F</code>.
             </p>
           : <p>Loading...</p>} 
       </div>
