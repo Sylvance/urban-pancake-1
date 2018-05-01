@@ -1,5 +1,6 @@
 # Urban-pancake-1
 Hacks that I do following interesting tutorials.
+For this Urban pancake it displays current temperature at Andela, Kenya with updates every 60 seconds.
 
 ## Tutorial Link
 Disclaimer; I did not make this tutorial;
@@ -36,6 +37,7 @@ I used heroku, you can find it here;
 ### React client
 I used Now-cli, you can find the demo here;
 [https://socket-io-client-vakfwgtooj.now.sh/](https://socket-io-client-vakfwgtooj.now.sh/)
+Heads up! It will load every 60 seconds.
 
 ## Author
 -> Sylvance Kerandi
