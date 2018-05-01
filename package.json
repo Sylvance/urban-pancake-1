@@ -1,0 +1,30 @@
+{
+  "name": "urban-pancake-1",
+  "version": "1.0.0",
+  "description": "Displays current temperature in a location with updates every 10 seconds",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sylvance/urban-pancake-1.git"
+  },
+  "keywords": [
+    "socket.io",
+    "nodejs",
+    "react"
+  ],
+  "author": "Sylvance Kerandi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sylvance/urban-pancake-1/issues"
+  },
+  "homepage": "https://github.com/Sylvance/urban-pancake-1#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
+    "npm": "^6.0.0",
+    "socket.io": "^2.1.0"
+  }
+}
